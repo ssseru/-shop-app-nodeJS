@@ -7,3 +7,11 @@ Uploading images - using multer library
 Making payments - using stripe library
 Generating invoices - using pdfkit
 and more...
+
+Inorder to run the application:
+
+1. Take clone of the repo
+2. Make sure node is there in your system
+3. Run command `npm i` into the directory
+4. After the modules have been installed
+5. Run command `npm start` to start app
