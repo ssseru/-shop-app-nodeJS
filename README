@@ -1,0 +1,9 @@
+This is a shop app made using nodeJS along with ejs template engine in order to provide the views of different pages.
+The features include:
+Login and Signup
+Sending mails when successful signup - using nodemailer
+Forgot Password
+Uploading images - using multer library
+Making payments - using stripe library
+Generating invoices - using pdfkit
+and more...
